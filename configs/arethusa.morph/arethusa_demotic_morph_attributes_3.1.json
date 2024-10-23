@@ -156,6 +156,14 @@
             "color" : "rgb (0, 255, 0)"
           }
         },
+        "relpr" : {
+          "long" : "relative pronoun",
+          "short" : "relpr",
+          "postag" : "f",
+          "style" : {
+            "color" : "rgb (80, 190, 220)"
+          }
+        },
         "verb" : {
           "long" : "verb",
           "short" : "verb",
